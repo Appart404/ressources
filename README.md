@@ -1,2 +1,2 @@
 # Ressources d'Entre Kheys
-Vous retrouverez sur cette page l'ensemble des ressources utilisées sur le serveur
+Cette page a pour but de réunir dans un but d'archivage les ressources utilisées sur EK
